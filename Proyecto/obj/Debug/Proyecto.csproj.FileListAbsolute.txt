@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\PC\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\PC\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\PC\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.FormTorneo.resources
