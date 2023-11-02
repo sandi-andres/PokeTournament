@@ -1,0 +1,21 @@
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\bin\Debug\ProyectoPorgramacionIV.exe.config
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\bin\Debug\ProyectoPorgramacionIV.exe
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\bin\Debug\ProyectoPorgramacionIV.pdb
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.csproj.AssemblyReference.cache
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.Form1.resources
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.Properties.Resources.resources
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.csproj.GenerateResource.cache
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.csproj.CoreCompileInputs.cache
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.exe
+C:\Users\Noelia Morales\OneDrive\Escritorio\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.pdb
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\bin\Debug\ProyectoPorgramacionIV.exe.config
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\bin\Debug\ProyectoPorgramacionIV.exe
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\bin\Debug\ProyectoPorgramacionIV.pdb
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.Form1.resources
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.Properties.Resources.resources
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.exe
+C:\Users\PC\Desktop\Progra\ProyectoPorgramacionIV\obj\Debug\ProyectoPorgramacionIV.pdb
